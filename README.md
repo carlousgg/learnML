@@ -1,2 +1,3 @@
 # learnML
-some data science code
+用力啊存放机器学习代码的库，目前已完成的项目有：
+- Iris(鸢尾花预测)
